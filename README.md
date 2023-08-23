@@ -26,51 +26,33 @@ Jun 2022 - Jul 2022
 🌐 Hosted on GoDaddy's cPanel for reliable accessibility.
 📞 Collaborated closely with clients to align designs with their needs.
 
-<style>
-.skill-badge {
-  display: inline-block;
-  padding: 0.2em 0.6em;
-  margin: 0.1em;
-  font-size: 14px;
-  border-radius: 4px;
-  background-color: #5E8DE3;
-  color: white;
-}
-</style>
-
-### Skills
 - **Front-end**: 
-  <span class="skill-badge">HTML</span>
-  <span class="skill-badge">CSS</span>
-  <span class="skill-badge">JavaScript</span>
-  <span class="skill-badge">React.js</span>
-  <span class="skill-badge">SCSS</span>
-  <span class="skill-badge">Bootstrap</span>
-  <span class="skill-badge">Tailwind</span>
-  
-- **Back-end**:
-  <span class="skill-badge">Python</span>
-  <span class="skill-badge">Django</span>
-  <span class="skill-badge">Node.js</span>
-  <span class="skill-badge">PHP</span>
-  
-- **Databases**:
-  <span class="skill-badge">PL/SQL</span>
-  <span class="skill-badge">MySQL</span>
-  <span class="skill-badge">MongoDB</span>
-  
-- **UI/UX Design**:
-  <span class="skill-badge">Figma</span>
-  <span class="skill-badge">Adobe XD</span>
-  
-- **Other**:
-  <span class="skill-badge">jQuery</span>
-  
-- **Tools**:
-  <span class="skill-badge">Visual Studio</span>
-  <span class="skill-badge">VS Code</span>
-  <span class="skill-badge">XAMPP</span>
-  <span class="skill-badge">Postman</span>
+  ![HTML](https://img.shields.io/badge/-HTML-blue)
+  ![CSS](https://img.shields.io/badge/-CSS-blue)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-blue)
+  ![React.js](https://img.shields.io/badge/-React.js-blue)
+  ![SCSS](https://img.shields.io/badge/-SCSS-blue)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-blue)
+- **Back-end**: 
+  ![Python](https://img.shields.io/badge/-Python-green)
+  ![Django](https://img.shields.io/badge/-Django-green)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green)
+  ![PHP](https://img.shields.io/badge/-PHP-green)
+- **Databases**: 
+  ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-orange)
+  ![MySQL](https://img.shields.io/badge/-MySQL-orange)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-orange)
+- **UI/UX Design**: 
+  ![Figma](https://img.shields.io/badge/-Figma-purple)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-purple)
+- **Other**: 
+  ![jQuery](https://img.shields.io/badge/-jQuery-red)
+- **Tools**: 
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-yellow)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-yellow)
+  ![XAMPP](https://img.shields.io/badge/-XAMPP-yellow)
+  ![Postman](https://img.shields.io/badge/-Postman-yellow)
 
 
 ## Experience
