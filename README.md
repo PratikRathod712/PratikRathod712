@@ -28,7 +28,7 @@ Jun 2022 - Jul 2022
 
 ### Skills
 - **Front-end**: 
-  <span style="color:red">![HTML](https://img.shields.io/badge/HTML-5E8DE3?style=for-the-badge&logo=html5&logoColor=white)</span>
+  <span style="color:red">HTML![HTML](https://img.shields.io/badge/HTML-5E8DE3?style=for-the-badge&logo=html5&logoColor=white)</span>
   ![CSS](https://img.shields.io/badge/CSS-5E8DE3?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-5E8DE3?style=for-the-badge&logo=javascript&logoColor=white)
   ![React.js](https://img.shields.io/badge/React.js-5E8DE3?style=for-the-badge&logo=react&logoColor=white)
