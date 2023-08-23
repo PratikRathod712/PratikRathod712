@@ -26,14 +26,40 @@ Jun 2022 - Jul 2022
 🌐 Hosted on GoDaddy's cPanel for reliable accessibility.
 📞 Collaborated closely with clients to align designs with their needs.
 
-## Skills
+### Skills
+- **Front-end**: 
+  ![HTML](https://img.shields.io/badge/HTML-5E8DE3?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-5E8DE3?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-5E8DE3?style=for-the-badge&logo=javascript&logoColor=white)
+  ![React.js](https://img.shields.io/badge/React.js-5E8DE3?style=for-the-badge&logo=react&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-5E8DE3?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-5E8DE3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-5E8DE3?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+- **Back-end**: 
+  ![Python](https://img.shields.io/badge/Python-5E8DE3?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-5E8DE3?style=for-the-badge&logo=django&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-5E8DE3?style=for-the-badge&logo=node.js&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-5E8DE3?style=for-the-badge&logo=php&logoColor=white)
+  
+- **Databases**: 
+  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-5E8DE3?style=for-the-badge&logo=oracle&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-5E8DE3?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-5E8DE3?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+- **UI/UX Design**: 
+  ![Figma](https://img.shields.io/badge/Figma-5E8DE3?style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-5E8DE3?style=for-the-badge&logo=adobe-xd&logoColor=white)
+  
+- **Other**: 
+  ![jQuery](https://img.shields.io/badge/jQuery-5E8DE3?style=for-the-badge&logo=jquery&logoColor=white)
+  
+- **Tools**: 
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5E8DE3?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-5E8DE3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![XAMPP](https://img.shields.io/badge/XAMPP-5E8DE3?style=for-the-badge&logo=xampp&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-5E8DE3?style=for-the-badge&logo=postman&logoColor=white)
 
-- **Front-end:** HTML, CSS, JavaScript, React.js, SCSS, Bootstrap, Tailwind
-- **Back-end:** Python, Django, Node.js, PHP
-- **Databases:** PL/SQL, MySQL, MongoDB
-- **UI/UX Design:** Figma, Adobe XD
-- **Other:** jQuery
-- **Tools:** Visual Studio, VS Code, XAMPP, Postman
 
 ## Experience
 
