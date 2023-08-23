@@ -71,7 +71,6 @@ Jun 2022 - Jul 2022
   <span class="skill-badge">VS Code</span>
   <span class="skill-badge">XAMPP</span>
   <span class="skill-badge">Postman</span>
-</style>
 
 
 ## Experience
